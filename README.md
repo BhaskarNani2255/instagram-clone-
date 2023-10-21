@@ -1,2 +1,2 @@
-# instagram-clone-
+# inst-clone-
 using basic html and css only
